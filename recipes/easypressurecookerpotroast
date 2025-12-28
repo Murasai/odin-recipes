@@ -1,0 +1,37 @@
+<!DOCTYPE html>                
+<a href="../index.html">Home</a>
+    <html lang="en">
+        <header>
+            <meta name ="viewport" content="width=device-width,initial-scale=1.0">
+        <title>Roast</title>
+        <a href=https://www.allrecipes.com/recipe/220869/easy-pressure-cooker-pot-roast/</a></header>
+        <body>
+            <h1>Easy Pressure Cooker Pot Roast</h1>
+            <img src="/images/easypressurecookerpotroast.jpg">
+            <h2>A tender roast to enjoy on a cold day</h2>
+            <p>This pot roast is a simple recipe that relies on keeping cool under pressure. Very flavorable and tender, it could be used for other means than just a roast. </p>
+            <h3>Ingredients</h3>
+                <ul>
+                    <li>2 tsp of Vegetable Oil</li>
+                     <li>3 lbs of Boneless Beef Chuck Roast</li>
+                      <li>1 pinch of Seasoned Salt</li>
+                       <li>1 pinch of Onion Powder</li>
+                        <li>1 pinch of Black Pepper</li>
+                         <li> 1 14.5 ounce can of Beef Broth</li>
+                          <li> 1 1/2 tsp of Worchester Sauce</li>
+                            <li>1 large and sectioned Onion</li>
+                              <li> 4 peeled and bite sized cut Carrots</li>
+                                <li>4 large, peeled, and bite-sized Potatoes</li>
+                          
+                </ul>
+                <h3>Steps</h3>
+                <ol>
+                    <li>Heat the oil in the pressure cooker while searing the roast on all sides in a hot skillet over medium heat.</li>
+                     <li>Transfer and season the roast with black pepper, onion powder and seasoned salt.</li>
+                     <li>Pour in beef broth and Worchester sauce, adding the onion and seal the lid.</li>
+                      <li>Reduce heat to low and cook at full pressure for 30 minutes.</li>
+                       <li>Lower pressure using quick release method to add carrots and potatoes, then reseal the lid.</li>
+                        <li>Return the cooker to full pressure and cook for 15 more minutes.</li>
+                </ol>
+        </body>
+    </html>
